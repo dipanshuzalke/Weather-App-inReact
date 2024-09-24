@@ -1,0 +1,13 @@
+.InfoBox {
+    text-align: center;
+}
+
+.InfoBox h1 {
+    color: #000;
+    padding: 1rem;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
